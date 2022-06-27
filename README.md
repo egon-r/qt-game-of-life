@@ -1,0 +1,3 @@
+# QGameOfLife
+
+![Screenshot](gol.gif)
